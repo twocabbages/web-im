@@ -1,0 +1,26 @@
+{
+  "name": "amr",
+  "authors": [
+    "cabbage <251949141@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/twocabbages/amr.js",
+  "_release": "33102542e1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "33102542e1d5c2fab9947cc46d7ec3766c125c50"
+  },
+  "_source": "git://github.com/twocabbages/amr.js.git",
+  "_target": "*",
+  "_originalSource": "amr",
+  "_direct": true
+}

@@ -1,3 +1,9 @@
+## 安装依赖javascript
+```
+npm install -g bower
+bower install
+```
+
 ## 环信 WebIM sdk
 
 测试环信WebIM请访问 http://webim.easemob.com。  登录可以使用环信Demo的账号和密码（见http://www.easemob.com/demo)

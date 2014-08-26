@@ -1,0 +1,18 @@
+{
+  "name": "amr",
+  "version": "1.0.0",
+  "authors": [
+    "cabbage <251949141@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}

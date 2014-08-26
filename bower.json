@@ -1,0 +1,24 @@
+{
+  "name": "im",
+  "version": "0.0.0",
+  "authors": [
+    "air <251949141@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "2.3.2",
+    "jquery-cookie": "~1.4.1",
+    "json2": "*",
+    "strophe": "~1.1.3",
+    "amr": "*",
+    "recordmp3": "*",
+    "underscore": "~1.6.0"
+  }
+}
