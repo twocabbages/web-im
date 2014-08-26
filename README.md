@@ -11,3 +11,11 @@ bower install
 环信WebIM快速入门文档请见：https://github.com/easemob/web-im/blob/master/quickstart.md
 
 更多关于环信的开发文档请见：http://developer.easemob.com
+
+HOW OK车险修改
+------------------
+
+* 添加bower管理依赖包
+* 添加语音发送功能
+* 修改图片音频 接受不正常
+* 修改modal多条通知同时出现时的不正常关闭
