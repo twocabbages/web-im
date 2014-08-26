@@ -12,7 +12,7 @@ bower install
 
 更多关于环信的开发文档请见：http://developer.easemob.com
 
-HOW OK车险修改
+OK车险修改
 ------------------
 
 * 添加bower管理依赖包
